@@ -1,2 +1,2 @@
 # useful_tools
-For chucking useful scripts, information, etc.
+For chucking in useful scripts, information, etc.
